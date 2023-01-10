@@ -4,11 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
-jupyter = "*"
-pandas = "*"
 scikit-learn = "*"
-seaborn = "*"
 flask = "*"
 requests = "*"
 gunicorn = "*"
