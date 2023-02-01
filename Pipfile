@@ -12,6 +12,7 @@ seaborn = "*"
 flask = "*"
 requests = "*"
 gunicorn = "*"
+xgboost = "*"
 
 [dev-packages]
 
